@@ -3,7 +3,12 @@ guid: c60e9db297092c14ab42b4774e11d275
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: nave
+    second: {fileID: 2100000, guid: 304c9ff64490e864b9c431710e3ac5f0, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
