@@ -333,7 +333,7 @@ GameObject:
   - component: {fileID: 7934063707511568942}
   m_Layer: 0
   m_Name: 'Nave2_IA '
-  m_TagString: Untagged
+  m_TagString: IA
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -427,8 +427,8 @@ MonoBehaviour:
   - 1.13
   - 0.93
   CurrentGear: 2
-  EngineTorque: 600
-  MaxEngineRPM: 3000
+  EngineTorque: 100
+  MaxEngineRPM: 2000
   MinEngineRPM: 1000
   EngineRPM: 0
   maxSteerAngle: 35

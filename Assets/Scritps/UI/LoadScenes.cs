@@ -1,4 +1,6 @@
+using Unity.VisualScripting;
 using UnityEngine;
+using UnityEngine.Rendering;
 using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 
@@ -30,5 +32,9 @@ public class LoadScenes : MonoBehaviour
     public void ChooseLevel()
     {
         SceneManager.LoadScene("ChooseLevel");
+    }
+    public void Salir()
+    {
+        Application.Quit();
     }
 }
