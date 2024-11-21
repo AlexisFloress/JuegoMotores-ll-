@@ -27,6 +27,6 @@ EditorBuildSettings:
     path: Assets/Scenes/EndRaceW.unity
     guid: 29f72aa211896e74cb546be0af14e2ce
   - enabled: 1
-    path: Assets/Scenes/UI_Creditos.unity
-    guid: 26087123958d857499fc4f969c4ac843
+    path: Assets/Creditos.unity
+    guid: fd12696bd343e524bb4648fb1bbeaeb2
   m_configObjects: {}

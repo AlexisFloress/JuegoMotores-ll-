@@ -980,7 +980,7 @@ GameObject:
   - component: {fileID: 1052476877}
   - component: {fileID: 1052476876}
   m_Layer: 5
-  m_Name: Configuraciones
+  m_Name: Creditos
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1052,7 +1052,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 949675373}
         m_TargetAssemblyTypeName: LoadScenes, Assembly-CSharp
-        m_MethodName: Configuracion
+        m_MethodName: Creditos
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}

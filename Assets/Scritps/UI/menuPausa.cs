@@ -45,6 +45,7 @@ public class menuPausa : MonoBehaviour
 
     public void salir()
     {
+        change = 0;
         SceneManager.LoadScene("UI_MenuInicial");
     }
 }

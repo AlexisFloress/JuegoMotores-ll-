@@ -12,9 +12,9 @@ public class LoadScenes : MonoBehaviour
         SceneManager.LoadScene("UI_SeleccionNave");
     }
 
-    public void Configuracion()
+    public void Creditos()
     {
-        SceneManager.LoadScene("UI_Settins");
+        SceneManager.LoadScene("Creditos");
     }
 
     public void BackMenuPrincipal()
